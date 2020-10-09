@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "antd": "^3.26.6",
+    "antd": "^4.6.6",
     "lo": "^0.40.0",
     "lodash": "^4.17.15",
     "react": "^16.12.0",
